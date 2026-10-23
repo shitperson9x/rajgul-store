@@ -1,0 +1,34 @@
+[
+  {
+    "id": "player-a",
+    "name": "K U T U",
+    "speciality": "Bamek / Batank / Lunox",
+    "winRate": 100,
+    "totalGames": 1200,
+    "photo": "/team/kutu.jpg"
+  },
+  {
+    "id": "player-b",
+    "name": "Jager",
+    "speciality": "Roam / Gold",
+    "winRate": 99,
+    "totalGames": 502390,
+    "photo": "/team/jager.jpg"
+  },
+  {
+    "id": "player-c",
+    "name": "GanT",
+    "speciality": "Roam / Gold",
+    "winRate": 69,
+    "totalGames": 231,
+    "photo": "/team/gant.jpg"
+  },
+  {
+    "id": "player-d",
+    "name": "Zukko",
+    "speciality": "Jungler / Exp / Mid",
+    "winRate": 20,
+    "totalGames": 520,
+    "photo": "/team/zukko.jpg"
+  }
+]

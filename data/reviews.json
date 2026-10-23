@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Veko",
+    "rating": 1,
+    "message": "Cepat banget! Dari Mythic Honor ke Romawi cuma 30 Menit. Playernya hebad, win rate rendah. Recommended!",
+    "employee": "rajgul",
+    "hero": "Obsidia",
+    "screenshot": null,
+    "date": "2026-10-20T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Veko",
+    "rating": 5,
+    "message": "Hebad!",
+    "employee": "rajgul",
+    "hero": "Julian",
+    "screenshot": null,
+    "date": "2026-10-21T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Veko",
+    "rating": 1,
+    "message": "Udah 3x pake jasa ini. Selalu emosi gaming! Harga terjangkau, hasil memuaskan. Top deh!",
+    "employee": "rajgul",
+    "hero": "Paquito",
+    "screenshot": null,
+    "date": "2026-10-22T16:45:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Pong",
+    "rating": 1,
+    "message": "Pance Prime hebat",
+    "employee": "Zukko",
+    "hero": "Lancelot",
+    "screenshot": "/uploads/screenshot-1792783943150.jpeg",
+    "date": "2026-10-23T19:32:23.152Z"
+  }
+]
